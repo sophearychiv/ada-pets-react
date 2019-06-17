@@ -38,6 +38,7 @@ class App extends Component {
           { /* Wave 2:  Where Pet Details should appear */ }
         <section className="pet-list-wrapper">
           { /* Wave 1:  Where PetList should appear */ }
+          <PetList/>
         </section>
         <section className="new-pet-form-wrapper">
           { /* Wave 3:  Where NewPetForm should appear */ }
